@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.active-link {
+  color: red;
+  font-weight: 600;
+}
+
+fieldset {
+  margin-top: 1rem;
+}
+
+.label-container {
+  text-align: left;
+}
+
+label {
+  margin: 0 0.5rem;
+}

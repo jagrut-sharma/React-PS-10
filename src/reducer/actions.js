@@ -1,0 +1,8 @@
+export const actions = {
+  STAR_MAIL: "STAR_MAIL",
+  DELETE_MAIL: "DELETE",
+  READ_MAIL: "READ",
+  SPAM_MAIL: "SPAM",
+  FILTER_MAIL: "FILTER",
+  VIEW_DETAIL_READ: "VIEW READ"
+};
